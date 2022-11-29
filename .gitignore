@@ -1,0 +1,18 @@
+# Maven
+target/
+
+# JetBrains
+.idea
+*.iml
+
+# Java Bytecode
+*.class
+
+# Eclipse
+.metadata
+.settings/
+.recommenders
+
+# macOS
+.DS_Store
+*.project
